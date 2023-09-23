@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IU513MYzGIxD0xRff27pggYFeab5AVKDrYA0UHEJtdTwaqKlRUBM+bhkldsvvP/ZF9du/m9Rgmr3Orn3mDilXg==",
+  "success": true,
+  "projectFilePath": "/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss.iOS/testingMyClasss.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/penguincovered/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/penguincovered/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/penguincovered/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

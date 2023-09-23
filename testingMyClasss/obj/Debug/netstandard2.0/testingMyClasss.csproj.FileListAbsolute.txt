@@ -1,0 +1,14 @@
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/bin/Debug/netstandard2.0/testingMyClasss.deps.json
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/bin/Debug/netstandard2.0/testingMyClasss.dll
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/bin/Debug/netstandard2.0/testingMyClasss.pdb
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/testingMyClasss.csproj.AssemblyReference.cache
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/testingMyClasss.AssemblyInfoInputs.cache
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/testingMyClasss.AssemblyInfo.cs
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/testingMyClasss.csproj.CoreCompileInputs.cache
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/testingMyClasss.dll
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/testingMyClasss.pdb
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/obj/Debug/netstandard2.0/ref/testingMyClasss.dll
+/Users/penguincovered/Projects/testingMyClasss/testingMyClasss/testingMyClasss/bin/Debug/netstandard2.0/ref/testingMyClasss.dll
